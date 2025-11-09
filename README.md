@@ -31,7 +31,7 @@ O trabalho propõe a construção de um processador funcional que permita compre
 
 O vídeo demonstrando o funcionamento do processador, a arquitetura desenvolvida e testes práticos está disponível em:
 
-👉 **[vídeo explicativo](HENRIQUE_COLOQUE_LINK_AQUI)**
+👉 **[vídeo explicativo](https://youtu.be/D81BRdYW0Hs)**
 
 ---
 
